@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/what-i-watched/static/css/main.ccc90211.css",
-    "main.js": "/what-i-watched/static/js/main.d4c17351.js",
-    "static/js/787.28cb0dcd.chunk.js": "/what-i-watched/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/what-i-watched/index.html",
-    "main.ccc90211.css.map": "/what-i-watched/static/css/main.ccc90211.css.map",
-    "main.d4c17351.js.map": "/what-i-watched/static/js/main.d4c17351.js.map",
-    "787.28cb0dcd.chunk.js.map": "/what-i-watched/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/What-i-watched/static/css/main.ccc90211.css",
+    "main.js": "/What-i-watched/static/js/main.98a2319a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/What-i-watched/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/What-i-watched/index.html",
+    "main.ccc90211.css.map": "/What-i-watched/static/css/main.ccc90211.css.map",
+    "main.98a2319a.js.map": "/What-i-watched/static/js/main.98a2319a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/What-i-watched/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccc90211.css",
-    "static/js/main.d4c17351.js"
+    "static/js/main.98a2319a.js"
   ]
 }
